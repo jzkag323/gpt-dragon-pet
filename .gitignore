@@ -1,0 +1,13 @@
+build/
+qa/
+optimized-build/
+.build/
+dist/
+*.exe
+*.zip
+*.pdb
+.vs/
+bin/
+obj/
+Thumbs.db
+.DS_Store
